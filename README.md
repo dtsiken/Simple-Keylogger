@@ -9,7 +9,7 @@ If you want to make it executable just install pyinstaller or nuitka to make it 
 Sample Output:
 
 The Text File
-![image](https://user-images.githubusercontent.com/101923825/185189242-0297eefa-a123-4c2a-a0ab-799c8f5b73d0.png)
+![image](https://user-images.githubusercontent.com/101923825/185190755-045e4cde-a98c-4d97-8bbd-dd3be8fd965f.png)
 
 Sample KeyStrokes
 ![image](https://user-images.githubusercontent.com/101923825/185190208-d57498ef-75a4-4dfd-9902-b939985c7587.png)
