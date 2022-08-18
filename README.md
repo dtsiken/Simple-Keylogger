@@ -8,7 +8,7 @@ First we need to install in the terminal type pip install pynput.
 This is the rewrite version in pynput module because pyHook is not working anymore inspired by this keylogger and this is my desired output.
 https://www.youtube.com/watch?v=t2vYu626QT0&t=285s
 
-If you want to make it executable just install pyinstaller or nuitka to make it onefile and independent to python and all libraries.
+If you want to make it executable just install pyinstaller or nuitka to make it onefile and noconsole and independent to python and all libraries.
 
 ![image](https://user-images.githubusercontent.com/101923825/185301220-4b3934ce-b5b6-44ce-977d-8f4a654fa14b.png)
 
