@@ -1,4 +1,4 @@
-A Simple Python Keylogger saves a Text File with Current Day and Date and also has a Day, Date, Time, and Year for every Keystroke that wrote nice and readable.
+A Simple Keylogger Witten in Python saves a Text File with Current Day and Date and also has a Day, Date, Time, and Year for every Keystroke that wrote nice and readable.
 
 First we need to install in the terminal type pip install pynput.
 
@@ -22,4 +22,3 @@ If you want to make it executable just install pyinstaller or nuitka to make it 
 
 ![image](https://user-images.githubusercontent.com/101923825/185301037-c17f5837-1f29-42ad-bc01-0d580bda19e8.png)
 ![image](https://user-images.githubusercontent.com/101923825/185299790-ac1e4eab-80cf-4505-b68f-8166fadef0c7.png)
-
