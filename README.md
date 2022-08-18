@@ -1,9 +1,12 @@
-First we need to install in the terminal type pip install pynput
-
 A Simple Python Keylogger saves a Text File with Current Day and Date and also has a Day, Date, Time, and Year for every Keystroke that wrote nice and readable 
 Allmost keyboard keys are registered i think?
 
-Still in the development
+First we need to install in the terminal type pip install pynput
+
+This is the rewrite version in pynput module because pyHook is not working anymore this is the video that i look up for this idea
+https://www.youtube.com/watch?v=t2vYu626QT0&t=285s
+
+Still in the development and adding more feature
 If you want to make it executable just install pyinstaller or nuitka to make it onefile and independent to python and all libraries
 
 Sample Output:
