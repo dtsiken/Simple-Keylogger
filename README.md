@@ -9,14 +9,14 @@ https://www.youtube.com/watch?v=t2vYu626QT0&t=285s
 Still in the development and adding more feature
 If you want to make it executable just install pyinstaller or nuitka to make it onefile and independent to python and all libraries.
 
-Demo Output of this program:
+![image](https://user-images.githubusercontent.com/101923825/185301220-4b3934ce-b5b6-44ce-977d-8f4a654fa14b.png)
 
-![image](https://user-images.githubusercontent.com/101923825/185300420-0c10838d-68f0-4018-8f8f-6cea612d00ca.png)
+![image](https://user-images.githubusercontent.com/101923825/185301112-376c36dd-6582-4f90-84e4-7a8eeeee075c.png)
 ![image](https://user-images.githubusercontent.com/101923825/185299732-7f27729d-6e0d-45e4-8649-725b6c0f04eb.png)
 
-![image](https://user-images.githubusercontent.com/101923825/185300361-2fe6198b-a4d2-414a-8d55-b03e4b64e37d.png)
+![image](https://user-images.githubusercontent.com/101923825/185300968-a063bcc4-8abb-4d49-ad84-8f7c6f7da490.png)
 ![image](https://user-images.githubusercontent.com/101923825/185299661-4ac6fbd2-b85e-4561-92e7-0332fa42b2b3.png)
 
-![image](https://user-images.githubusercontent.com/101923825/185300457-5abf1402-ce65-44bb-950e-f9d03bad31fe.png)
+![image](https://user-images.githubusercontent.com/101923825/185301037-c17f5837-1f29-42ad-bc01-0d580bda19e8.png)
 ![image](https://user-images.githubusercontent.com/101923825/185299790-ac1e4eab-80cf-4505-b68f-8166fadef0c7.png)
 
