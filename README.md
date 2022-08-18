@@ -9,13 +9,14 @@ https://www.youtube.com/watch?v=t2vYu626QT0&t=285s
 Still in the development and adding more feature
 If you want to make it executable just install pyinstaller or nuitka to make it onefile and independent to python and all libraries.
 
-Output of this program:
+Demo Output of this program:
 
-The Text File:
-![image](https://user-images.githubusercontent.com/101923825/185190755-045e4cde-a98c-4d97-8bbd-dd3be8fd965f.png)
+The Text File Created:
+![image](https://user-images.githubusercontent.com/101923825/185299732-7f27729d-6e0d-45e4-8649-725b6c0f04eb.png)
 
-Sample KeyStrokes:
-![image](https://user-images.githubusercontent.com/101923825/185190208-d57498ef-75a4-4dfd-9902-b939985c7587.png)
+Sample KeyStrokes that i type:
+![image](https://user-images.githubusercontent.com/101923825/185299661-4ac6fbd2-b85e-4561-92e7-0332fa42b2b3.png)
 
 Inside of Text File:
-![image](https://user-images.githubusercontent.com/101923825/185190315-b89a664e-e232-4733-99f3-a4f3167f5238.png)
+![image](https://user-images.githubusercontent.com/101923825/185299790-ac1e4eab-80cf-4505-b68f-8166fadef0c7.png)
+
