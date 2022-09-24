@@ -1,7 +1,7 @@
 DISCLAIMER! : THIS IS FOR EDUCATIONAL PURPOSES ONLY DON'T USE THIS PROGRAM TO STEAL INFORMATION AND SPY TO ANYONE THAT YOU NOT HAVE A PERMISSION. AGAIN! I'AM NOT RESPONSIBLE FOR THE RISK AND POSSIBLE BAD HAPPENS WITH THE HELP OF THIS PROGRAM. DON'T USE FOR MALICIOUS PURPOSES DON'T GO TO JAIL!, DON'T VIOLATE THE LAW!
 USE IT FOR AWARENESS TO YOUR LOVE ONES AND FRIENDS OR THE OTHER NEAR YOU ALSO SERVES AS A WARNING TO WHAT WILL HAPPEN IF THEY DOWNLOAD SOFTWARE DIRECTLY TO THE INTERNET WITHOUT CHECKING AND JUST RUN IT TO THE COMPUTER!
 
-A Simple Keylogger Witten in Python saves a Text File with Current Day and Date and also has a Day, Date, Time, and Year for every Keystroke that wrote nice and readable. to make it simple the text file created is same as path of this script at the time you run it and you can modify the code to change the path of the output file 
+A Simple Windows Keylogger Witten in Python saves a Text File with Current Day and Date and also has a Day, Date, Time, and Year for every Keystroke that wrote nice and readable. to make it simple the text file created is same as path of this script at the time you run it and you can modify the code to change the path of the output file 
 
 First we need to install in the terminal type pip install pynput.
 
